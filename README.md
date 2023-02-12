@@ -1,1 +1,1 @@
-A python code that detect the percentage of your battery 
+A python code that scrape data from table
