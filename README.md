@@ -1,1 +1,1 @@
-A gender detection app.
+A language detection app based on given data
