@@ -1,1 +1,1 @@
-A python code that scrape data from table
+ A Python code that calculate the compound interest
