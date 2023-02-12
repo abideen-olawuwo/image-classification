@@ -1,1 +1,1 @@
- A Python code that calculate the compound interest
+A classification problem to predict heart diseases based on input features
