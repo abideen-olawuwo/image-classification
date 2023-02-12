@@ -1,1 +1,1 @@
-A spam detection model
+ A new summmarizer app 
