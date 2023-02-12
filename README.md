@@ -1,1 +1,1 @@
-A classification problem to predict heart diseases based on input features
+ A music recommender based on collected data
