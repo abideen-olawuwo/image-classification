@@ -1,1 +1,2 @@
-A House Prediction model using different machine learning model with 97% model accuracy based on the input parameters like MSSubClass, MSZoning, LotFrontage,LotArea, Street, Alley, LotShape, LandContour, Utilities, PoolArea, PoolQC, Fence, MiscFeature, MiscVal, MoSold, YrSold, SaleType, and SaleCondition Using Machine Learning models. The data was downloaded from kaggle.com (https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
+A Linear Regression model for helping users to predict House prices.
+The dataset was downloaded from(https://www.kaggle.com/datasets/camnugent/california-housing-prices?select=housing.csv)
