@@ -1,1 +1,1 @@
-Serving Converted Prediction model into Web Service(flask) for predicting converted value for new id usage in development environment. the save model was load, creating function for web service to post the data in JSON format, waitress is used in development environment
+Isolating and Deploying converted app inside docker container 

@@ -7,7 +7,7 @@ url = 'http://localhost:3000/predict'
 
 
 
-id = 'xyz-123'
+id = 'customer'
 
 prospect_id = {
  "lead_origin": "lead_add_form",
