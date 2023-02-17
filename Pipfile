@@ -7,8 +7,10 @@ name = "pypi"
 numpy = "*"
 scikit-learn = "*"
 flask = "*"
+waitress = "*"
 
 [dev-packages]
+awsebcli = "*"
 
 [requires]
 python_version = "*"

@@ -1,1 +1,1 @@
-Isolating and Deploying converted app inside docker container 
+Isolating and Deploying docker container converted app in AWS Elastic beanstalk

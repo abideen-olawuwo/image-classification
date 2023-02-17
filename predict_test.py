@@ -2,8 +2,8 @@ import requests
 
 
 
-
-url = 'http://localhost:3000/predict'
+host ='converted-serving-2-env.eba-25pxjjyb.us-east-1.elasticbeanstalk.com'
+url = f'http://{host}/predict'
 
 
 
