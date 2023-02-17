@@ -1,1 +1,1 @@
-Predicting Converted Customer using Logistic Regression calculation of Accuracy, Confusion Matrix, Precision and Recall, ROC , AUC.  The dataset was downloaded from (https://www.kaggle.com/datasets/ashydv/leads-dataset)
+Serving Converted Prediction model into Web Service(flask) for predicting converted value for new id usage in development environment. the save model was load, creating function for web service to post the data in JSON format, waitress is used in development environment
